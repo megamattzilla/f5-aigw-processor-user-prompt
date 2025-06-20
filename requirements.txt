@@ -1,0 +1,4 @@
+uvicorn
+
+## AI Gateway SDK 1.0
+https://github.com/nginxinc/f5-ai-gateway-sdk-py/releases/download/1.0.0/f5_ai_gateway_sdk-1.0.0-py3-none-any.whl
